@@ -1,0 +1,287 @@
+.ion-toggle-custom{
+    --background-checked: #9b4131;
+    --handle-background-checked: #fe674c;
+}
+.ion-menu-custom{
+    --ion-background-color: #fe674c;
+}
+.ion-list-custom{
+      --ion-background-color: #ffffff;
+}
+.ion-card-custom{
+    --ion-background-color: #ffffff;
+    border-radius: 20px;
+}
+.ion-icon-custom{
+    font-size: 24px;
+    color: #fe674c;
+}
+.iconHS-custom{
+    font-size: 18px;
+    color: grey;
+    text-align: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+.iconTpTs-custom{
+    font-size: 24px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-top:40px;
+    padding-right: 20px;
+}
+.custom-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.home-img {
+    display: block;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    opacity: 100%;
+}
+.text-overimg{
+    text-align: left;
+    color: white;
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    bottom: 70px;
+    left: 15px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+.text-overimg2{
+    text-align: right;
+    color: white;
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    bottom: 30px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+}
+.text-overimg3{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: absolute;
+    color: white;
+    width: 100%;
+    height: 60px;
+    bottom: 50px;
+    padding-bottom: 50px;
+}
+.icon-overimg{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: absolute;
+    color: white;
+    font-size: 42px;
+    width: 100%;
+    height: 60px;
+    bottom: 70px;
+    padding-bottom: 70px;
+}
+.typeh6-custom {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.settingsheadh6-custom {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color:grey;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.settingsh6-custom {
+    font-size: 14px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 4px;
+}
+.helpsupportheadh6-custom{
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    color:grey;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+.h6-custom {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color:grey;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.h6-custom:before{
+    flex-grow: 1;
+    height: 1px;
+    content: '\a0';
+    background-color: grey;
+    position: relative;
+    top: 10px;
+    margin-right:15px;
+}
+.h6-custom:after {
+    flex-grow: 1;
+    height: 1px;
+    content: '\a0';
+    background-color: grey;
+    position: relative;
+    top: 10px;
+    margin-left:15px;
+}
+.cardtitle-custom {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.cardtitle2-custom {
+    text-align:left;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cardtitle3-custom {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+.cardtitleTpTs-custom {
+    text-align:left;
+    display: flex;
+    justify-content: left;
+}
+.cardimg-custom {
+    clip-path: circle(116.5% at 0%);
+}
+.cardimg2-custom {
+    clip-path: circle(36%);
+}
+.cardicon-custom{
+    text-align:right;
+    justify-content: right;
+    padding-right: 20px;
+    padding-bottom: 0px;
+}
+.fab-custom{
+   --border-radius: 50px;
+   max-width: unset;
+   min-width: unset;
+   width: 150px;
+   margin-left: unset;
+   margin-inline-start: -50px !important;
+}
+.fabicon-custom{
+    font-size: 16px;
+    color: #fe674c;
+}
+.textcolor-custom{
+    color:#fe674c;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+.roulepage-background {
+    --background: url("/assets/image/RoulePage-Tian.jpg") 0% 100% no-repeat!important;
+    background-size: cover !important;
+    position: absolute;
+}
+.textbutton-custom{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+.rouletext-custom{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.rouleicon-custom{
+    padding-left: 8px;
+}
+.fabroule-custom{
+    --border-radius: 50px;
+    max-width: unset;
+    min-width: unset;
+    width: 210px;
+    margin-left: unset;
+    margin-inline-start: -80px !important;
+ }
+.fabroule2-custom{
+    --border-radius: 50px;
+    --border-width: 2px;
+    --border-style: solid;
+    --border-color: #ffffff;
+    max-width: unset;
+    min-width: unset;
+    width: 210px;
+    margin-left: unset;
+    margin-bottom: 60px;
+    margin-inline-start: -80px !important;
+ }
+ .fabroule3-custom{
+    --border-radius: 50px;
+    --background:#fe674c;
+    max-width: unset;
+    min-width: unset;
+    width: 210px;
+    margin-left: unset;
+    margin-bottom: 110px;
+    margin-inline-start: -80px !important;
+ }
+ .buttonroule-custom{  
+    --border-radius: 50px; 
+    max-width: unset;
+    min-width: unset;
+    width: 170px;
+    text-align: center;
+    text-transform: none;
+    float: none;
+    justify-content: center;
+ }
